@@ -33,7 +33,7 @@ import com.example.mainza1992.apidemo.ui.utils.NetworkUtils;
 
 
 /**
- * Created by kalpesh on 20/09/2017.
+ * Created by mainza1992 on 20/09/2017.
  */
 public abstract class BaseFragment extends Fragment implements com.example.mainza1992.apidemo.ui.base.MvpView {
     private ProgressDialog mProgressDialog;
